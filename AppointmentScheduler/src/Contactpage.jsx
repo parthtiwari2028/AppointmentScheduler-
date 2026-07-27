@@ -9,7 +9,7 @@ function ContactPage() {
       <div className="contact-grid">
         <div className="contact-row">
           <span className="contact-label">Email</span>
-          <span>support@appointments.com</span>
+          <span>support@spotbooker.com</span>
         </div>
         <div className="contact-row">
           <span className="contact-label">Phone</span>
