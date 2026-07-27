@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Appointment icon">
+  <rect x="8" y="12" width="48" height="40" rx="6" ry="6" fill="#2563eb"/>
+  <rect x="8" y="12" width="48" height="10" rx="6" ry="6" fill="#1d4ed8"/>
+  <rect x="18" y="4" width="8" height="14" rx="3" fill="#1e3a8a"/>
+  <rect x="38" y="4" width="8" height="14" rx="3" fill="#1e3a8a"/>
+  <circle cx="32" cy="34" r="10" fill="#ffffff"/>
+  <path d="M32 28v6l4 3" stroke="#2563eb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
