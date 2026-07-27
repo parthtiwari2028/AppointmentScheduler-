@@ -8,7 +8,7 @@ function WelcomePage({ onStart }) {
         src={serviceImageUrl("Consultation", 900)}
         alt={serviceAlt("Consultation")}
       />
-      <h2>Welcome to Care Planner</h2>
+      <h2>Welcome to SpotBooker</h2>
       <p className="section-subtitle">
         Book and manage appointments for checkups, dental cleanings, hair cuts,
         and consultations — all in one place.

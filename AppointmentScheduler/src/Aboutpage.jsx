@@ -2,9 +2,9 @@
 function AboutPage() {
   return (
     <section className="card">
-      <h2>About Care Planner</h2>
+      <h2>About SpotBooker</h2>
       <p className="section-subtitle">
-        Care Planner brings appointment booking for checkups, dental visits,
+        SpotBooker brings appointment booking for checkups, dental visits,
         hair cuts, and consultations into one simple dashboard.
       </p>
 

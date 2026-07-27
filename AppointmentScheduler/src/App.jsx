@@ -58,7 +58,7 @@ function App() {
         <div className="hero-overlay" />
         <div className="hero-content">
           <p className="eyebrow">Stay organized</p>
-          <h1>Appointment Scheduler</h1>
+          <h1>SpotBooker</h1>
           <p className="hero-text">
             Book and manage your appointments in one place.
           </p>
@@ -66,7 +66,7 @@ function App() {
       </header>
 
       <nav className="top-nav">
-        <span className="brand">Care Planner</span>
+        <span className="brand">SpotBooker</span>
         <div className="nav-links">
           <button onClick={() => setCurrentPage("dashboard")}>Dashboard</button>
           <button onClick={() => setCurrentPage("booking")}>Book</button>
@@ -106,7 +106,7 @@ function App() {
       <footer className="footer">
         <div className="footer-content">
           <div>
-            <h3>Appointment Scheduler</h3>
+            <h3>SpotBooker</h3>
             <p>Simple and easy booking for your daily schedule.</p>
           </div>
           <div>
@@ -117,11 +117,11 @@ function App() {
           </div>
           <div>
             <h4>Contact</h4>
-            <p>Email: support@careplanner.com</p>
+            <p>Email: support@spotbooker.com</p>
             <p>Phone: 123-456-7890</p>
           </div>
         </div>
-        <p className="footer-copy">© 2026 Appointment Scheduler</p>
+        <p className="footer-copy">© 2026 SpotBooker</p>
       </footer>
     </main>
   );
